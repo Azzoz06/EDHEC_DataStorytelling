@@ -69,21 +69,19 @@ Three elements will make up your final grade:
     3. Be prepared for **Q&A** from the class and the instructor.
 ---
 
-
-<a href="Appendix"/>
 ## Appendix
-- World Resources Institute (multi domain data sets, contains data visualizations) - http://datasets.wri.org/dataset
-- Forbes (multitude of Companies, personalities listings) - https://www.forbes.com/lists
-- Statistical Computing (selection of US related datasets) - http://stat-computing.org/dataexpo/
-- Quora Wiki List of open Large Datasets https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
-- US Data.gov (200K Government related datasets) https://www.data.gov/
-- Government data sources (many several cities or Gov Agency publish open data)
-- GovLoop http://data.govloop.com
-- City of Seattle http://data.seattle.gov
-- City of San Francisco http://data.sfgov.org
-- City of Chicago http://data.cityofchicago.org
-- Medicare data  http://data.medicare.gov
-- 1001 Datasets and Data repositories (List of lists of lists...) https://dreamtolearn.com/ryan/1001_datasets
-- Kaggle ( the Home of Data Science & ML ) https://www.kaggle.com/datasets
-- DataCite (find, access and reuse data ) https://search.datacite.org/
-- Re3data.org (registry of research data repositories) https://www.re3data.org/
++ World Resources Institute (multi domain data sets, contains data visualizations) - http://datasets.wri.org/dataset
++ Forbes (multitude of Companies, personalities listings) - https://www.forbes.com/lists
++ Statistical Computing (selection of US related datasets) - http://stat-computing.org/dataexpo/
++ Quora Wiki List of open Large Datasets https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
++ US Data.gov (200K Government related datasets) https://www.data.gov/
++ Government data sources (many several cities or Gov Agency publish open data)
++ GovLoop http://data.govloop.com
++ City of Seattle http://data.seattle.gov
++ City of San Francisco http://data.sfgov.org
++ City of Chicago http://data.cityofchicago.org
++ Medicare data  http://data.medicare.gov
++ 1001 Datasets and Data repositories (List of lists of lists...) https://dreamtolearn.com/ryan/1001_datasets
++ Kaggle ( the Home of Data Science & ML ) https://www.kaggle.com/datasets
++ DataCite (find, access and reuse data ) https://search.datacite.org/
++ Re3data.org (registry of research data repositories) https://www.re3data.org/
