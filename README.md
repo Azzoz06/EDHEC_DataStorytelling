@@ -10,3 +10,11 @@ The tasks needed to setup your Lab environment are the following:
 1. Create an **IBM Cloud** account ([instructions](./setup/ibm_cloud.md))
 2. Create the **IBM Watson Studio** instance ([instructions](./setup/ibm_watson.md))
 3. Load the needed data files into the project as Data Assets
+
+## Course labs
+Practical Hands-on experience will be provided during the Labs. List of Labs is available here, clicking on the link will direct you to the Labs instructions.
++ [Visualization using **IBM Watson Studio**](./Lab2-Visualizations/Lab2-Visualization.md)
+  - **Brunel** Visualization
+  - **Pixie Dust** Visualization
+  - **Seaborn** Visualization
+  - Embedded Dashboards
