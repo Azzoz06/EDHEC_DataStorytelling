@@ -58,8 +58,9 @@ Three elements will make up your final grade:
 + Sketch your Data Visualization choosing the appropriate supporting Visual Elements (charts, colors, text, headlines etc...)
 + Get your story right in order to present to the audience.
 
-> **Tip1:** as you are building your visualization, document your decision points in order to present the "Making Off" which counts for the final grade
-> **Tip2:** use the tools you already now, copy paste if needed to 'scrap' something meaningful. **Remember, IT DOES NOT HAVE TO BE A FULLY COMPLETED DATA VISUALIZATION**
+> + **Tip1:** as you are building your visualization, document your decision points in order to present the "Making Off" which counts for the final grade  
+> + **Tip2:** use the tools you already now, copy paste if needed to 'scrap' something meaningful. **Remember, IT DOES NOT HAVE TO BE A FULLY COMPLETED DATA VISUALIZATION**  
+
 > You have seen the Nobel Prices and Laureate visualization during the lectures, here is an example of the sketch:
 ![](assets/markdown-img-paste-20181119160859873.png)
 

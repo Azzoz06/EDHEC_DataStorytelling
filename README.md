@@ -28,6 +28,13 @@ Practical Hands-on experience will be provided during the Labs. List of Labs is 
 This section covers all additional resources which you might want to explore to get a broader understanding of some of the major Visualization libraries, techniques, tools and so on.
 It includes tutorials, related web sites, course material.
 
+### Readings and Videos
++ **Data Visualisation** *A Hanbook for Data Driven Design* by **Andy Kirk** ![](assets/markdown-img-paste-20181120125847352.png)
+
++ **Storytelling with Data** by **Cole Nussbaumer Knaflic** ![](assets/markdown-img-paste-20181120130258474.png)
+
++ [Information is Beautiful](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwijm4KP9-LeAhVFyhoKHTfRAroQwqsBMAB6BAgGEAQ&url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Fdavid_mccandless_the_beauty_of_data_visualization&usg=AOvVaw2kPrl39xSRhoL9pBOlrHHX) TED conference by **David McCandless**
+
 ### D3
 + **D3.js** beginners course by **Mike Taptich** https://github.com/mtaptich/d3-lessons/
 + [NY Times - MLB Strikeouts on the Rise](https://archive.nytimes.com/www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html)
