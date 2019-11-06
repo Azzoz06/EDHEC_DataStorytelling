@@ -2,7 +2,7 @@
 
 + You must create an account on the **IBM Cloud Platform**.
 
-+ If you do not have an account yet, follow this link to register, using your IBM id: [https://bluemix.net/registration](https://bluemix.net/registration)
++ If you do not have an account yet, follow this link to register, using your IBM id: [https://cloud.ibm.com/registration?cm_mmc=EDHEC_Lille_DataViz2019](https://cloud.ibm.com/registration?cm_mmc=EDHEC_Lille_DataViz2019)
 
 + You’ll be registered for a lite account with no time restrictions, please chose `United States` or `United Kingdom`.
 
