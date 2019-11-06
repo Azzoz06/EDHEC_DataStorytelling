@@ -1,23 +1,24 @@
 # Challenges and assignments
 Three elements will make up your final grade:
 1. Data Visualization definition
-2. Obesity vs. Education Challenges
+2. Obesity vs. Education Challenge
+3. Educ vs. Fertility Challenge
 3. Group work
 ---
 
-## What is Data Visualization?  (personal)
+## What is Data Visualization?  (personal, in-class)
 + Using your own words, make up **your personal** definition of Data Visualization.
-+ **Due date:** before beginning of **Day Two**
++ **Due date:** end of **Day One**
 ---
 
-## Obesity vs. Education   (personal)
+## Obesity vs. Education   (personal, in-class)
 > **« Obesity is on average inversely proportional to the average education of the population »**
 
 *Can you show the evidence for this assertion?*
 
 + Data set
-  - [In CSV format]()
-  - [In Excel format]().
+  - [In CSV format](data/ObesityvsEducation.csv)  
+  - [In Excel format](data/ObesityvsEducation.xlsx)  
     > Note that Excel has additional columns which are not necessary. Feel free to modify the data set.
 
 +  **Questions to answer**:
@@ -26,8 +27,20 @@ Three elements will make up your final grade:
     3. A majority of states have **greater** percentages of `obese people` or `educated people`
     4. **Mockup** a Visualization that shows the evidence (or not) of the assertion. Explain your choice in terms of Chart Type and Visual Elements used.
 
-+ **Due date:** before beginning of **Day Two**
++ **Due date:** end of **Day One**
 ---
+## Fertility vs. Education (personal)
++ Data set
+  - [In Excel format](data/Educ-Fertility.xls)  
+    > Note that Excel has additional sheets which where used to form the main dataset. Feel free to modify the data set.  
+
++  **Work to be done**:
+    1. Guess a business question from the name of the dataset and make an assertion for yourself.
+    2. Identify the data (categories, data type, ...) and build a visualization or several visualizations that validates, invalidates your assertion.
+    3. What are the findings from your visualization?
+    4. Explain your choice in terms of visual elements used.
+
++ **Due date:** before beginning of **Day Two**
 
 ## Group work
 + Form **groups of 4 to 5** so classroom is represented by 10 groups. Give your group a name and give the composition of the group to your instructor.
