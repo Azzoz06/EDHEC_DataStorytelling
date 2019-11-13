@@ -31,7 +31,7 @@ Three elements will make up your final grade:
 ---
 ## Fertility vs. Education (personal)
 + Data set
-  - [In Excel format](data/Educ-Fertility.xls)  
+  - [In Excel format](data/Educ-fertility.xls)  
     > Note that Excel has additional sheets which where used to form the main dataset. Feel free to modify the data set.  
 
 +  **Work to be done**:
